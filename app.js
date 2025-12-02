@@ -1,5 +1,9 @@
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 27;
+=======
+let numeroLimite = 30;
+>>>>>>> parent of 460f0ee (56 eneas)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
